@@ -3,7 +3,7 @@
     "builds": {
         "in": {
             "copy": [
-                [ "./files", "../../assets/copy/out" ]
+                [ "./files", "../out" ]
             ]
         }
     }
